@@ -1,7 +1,1 @@
-# hello-world
-Example repository
-
-## sub heading 
-1. one 
-2. two 
-3. three 
+This repository contains the files needed for the DH workshops in ENG 311:  Digital Shakespeare.
