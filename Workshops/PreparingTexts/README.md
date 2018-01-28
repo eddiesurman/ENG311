@@ -2,6 +2,8 @@
 This file contains links to the resources that we will need for the presentation on "Cleaning Texts"
 
 ## Workshop
+### Text
+http://www.folgerdigitaltexts.org/download/txt/Tro.txt
 ### Stop-Word List
 http://xpo6.com/list-of-english-stop-words/
 
