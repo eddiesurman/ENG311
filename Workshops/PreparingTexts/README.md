@@ -1,7 +1,7 @@
 # Preparing Texts
 This file contains links to the resources that we will need for the presentation on "Cleaning Texts"
 
-## During the Workshop
+## Workshop
 ### Stop-Word List
 http://xpo6.com/list-of-english-stop-words/
 
