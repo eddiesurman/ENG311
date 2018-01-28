@@ -5,14 +5,14 @@ This file contains links to the additional resources connected with the presenta
 http://tapor.ca/home
 
 ## Digital Books and Articles
-http://journalofdigitalhumanities.org/
-http://dhdebates.gc.cuny.edu (Also available in print)
-http://www.digitalhumanities.org/companion/ (Updated version available in print)
-https://dlsanthology.mla.hcommons.org/
-http://www.digitalhumanities.org/companionDLS/
+http://journalofdigitalhumanities.org/ </br>
+http://dhdebates.gc.cuny.edu (Also available in print)</br>
+http://www.digitalhumanities.org/companion/ (Updated version available in print)</br>
+https://dlsanthology.mla.hcommons.org/</br>
+http://www.digitalhumanities.org/companionDLS/</br>
 
 ## Blogs
-http://tedunderwood.com
+http://tedunderwood.com</br>
 http://www.matthewjockers.net/
 
 ## Digital Humanities at the Claremont Colleges
