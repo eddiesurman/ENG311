@@ -1,5 +1,5 @@
-# Data Visualization and Presentation
-This file contains links to the resources that we will need for the presentation on "Cleaning Texts"
+# What to do with what you've got when you've got it
+This file contains links to the resources that we will need for the presentation on "Data Visualization and Presentation"
 
 # Visualization
 ## RAW
