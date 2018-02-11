@@ -12,13 +12,17 @@ This file contains links to the additional resources connected with the three wo
 
 # Workshop 3
 
-## Resources 
-### On Quantitative Approaches
+## Z-Score
+http://www.indiana.edu/~educy520/sec6342/week_09/z_score_intro.pdf</br>
+## Mann-Whitney Ranks test
+https://tedunderwood.com/2011/11/09/identifying-the-terms-that-characterize-an-author-or-genre-why-dunnings-may-not-be-the-best-method/</br>
+## Topic Modeling
+http://mallet.cs.umass.edu/topics.php </br>
+https://nlp.stanford.edu/software/tmt/tmt-0.4/</br>
+## Network Analysis
+http://hdlab.stanford.edu/palladio/</br>
+https://gephi.org/</br>
+http://blog.quantifyingkissinger.com/</br>
+# Additional Resources
 http://litlab.stanford.edu/pamphlets/
-http://blog.quantifyingkissinger.com/
-### More Tools
-#### For Quantitative Analysis
-
-#### For Visualizing Quantitative Data
-https://gephi.org/
 
