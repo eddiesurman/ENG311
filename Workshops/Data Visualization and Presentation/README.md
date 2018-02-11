@@ -10,6 +10,7 @@ http://ashleyrsanders.com/network-visualization-with-palladio/</br>
 http://hdlab.stanford.edu/palladio/</br>
 ## Tableau
 http://ashleyrsanders.com/data-visualization-for-humanists/</br>
+https://www.tableau.com/products/desktop</br>
 ## Timeline.js
 http://ashleyrsanders.com/timelinejs-tutorial/</br>
 https://timeline.knightlab.com/</br>
