@@ -8,7 +8,8 @@ This file contains links to the additional resources connected with the three wo
 
 # Workshop 2
 
-## Resources
+## Just in Case
+http://voyant-tools.org/docs/#!/guide/tools
 
 # Workshop 3
 
