@@ -3,6 +3,7 @@ This file contains links to the additional resources connected with the three wo
 # Workshop 1
 ## Just in Case
 https://www.fivelevelqda.com/directory-intro </br>
+http://www.folgerdigitaltexts.org/download/ </br>
 http://www.quartos.org/</br>
 ## Don't Start in the Middle
 https://www.fivelevelqda.com/article/11488-ok-i-ve-done-all-my-coding-what-s-next-the-importance-of-planning-before-starting-to-code</br>
